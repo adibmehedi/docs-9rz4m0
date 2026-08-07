@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-kchchy.yoursingles.online/sitemap.xml
